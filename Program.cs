@@ -26,6 +26,17 @@
 
 
             #endregion
+            #region Question 4
+
+            //Q4: What is a generic method? Write Swap<T> method.
+            //Answer : ==>
+            //int a = 1; int b = 5;
+            //Console.WriteLine("After swap");
+            //Question_4.Swap<int>(ref a, ref b);
+            //Console.WriteLine($"a = {a} : b = {b}");
+
+
+            #endregion
         }
     }
 }
