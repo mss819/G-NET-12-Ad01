@@ -12,6 +12,13 @@
 
 
             #endregion
+            #region Question 2
+
+            //Q2:Write a generic class Container<T> with Add and Get methods.
+            //Answer : ==>
+
+
+            #endregion
         }
     }
 }
