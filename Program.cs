@@ -80,6 +80,15 @@
 
 
             #endregion
+            #region Question 10
+
+            //Q9: What is the interface constraint? Write an example.
+            //Answer : ==>
+            // the interface constraint it must implement interface Like Icomparable And Ienumerable.
+
+
+            #endregion
+
 
 
         }
