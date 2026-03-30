@@ -72,6 +72,14 @@
 
 
             #endregion
+            #region Question 9
+
+            //Q9: What is the 'new()' constraint? Write an example.
+            //Answer : ==>
+            // the new() constraint it must have a parameterless constructor
+
+
+            #endregion
 
 
         }
