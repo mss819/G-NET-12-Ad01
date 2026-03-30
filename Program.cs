@@ -146,6 +146,12 @@ namespace G_NET_12_Ad01
             //         contravariance-> input only , consumer of T
 
             #endregion
+            #region Question 18
+
+            //Q18: How do static members work in generic types?
+            //Answer : static member in genaric tybe not shared it is separte from data tybe to another
+
+            #endregion
 
 
 
