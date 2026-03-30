@@ -1,4 +1,5 @@
 ﻿using G_NET_12_Ad01.Question_11;
+using System.ComponentModel;
 
 namespace G_NET_12_Ad01
 {
@@ -156,6 +157,13 @@ namespace G_NET_12_Ad01
 
             //Q19: How can you inherit from a generic class?
             //Answer : you can inherit from genaric class but you must inherit constraint blus
+
+            #endregion
+            #region Question 20
+
+            //Q20: Complete Exercise - Create a generic Cache<TKey,
+            //TValue > with Add, Get, Remove, Contains, and expiration support
+            //Answer :==>>>
 
             #endregion
 
