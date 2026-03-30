@@ -63,6 +63,15 @@
             //Question_7<decimal> strs = new(10M);
 
             #endregion
+            #region Question 8
+
+            //Q8: What is the 'class' constraint? Write an example.
+            //Answer : ==>
+            // the class constraint it must be refernce type only
+            //Question_8<string> str = new("aaa");
+
+
+            #endregion
 
 
         }
