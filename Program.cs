@@ -47,6 +47,15 @@
             //Console.WriteLine($"the maximum value un array = {Question_5.findMax(arrs)}");
 
             #endregion
+            #region Question 6
+
+            //Q6: What is a generic interface? Write IRepository<T>
+            //Answer : ==>
+            // Genaric Interface is : it is a unique interface can be hold a multable data tybe
+
+            #endregion
+         
+
         }
     }
 }
