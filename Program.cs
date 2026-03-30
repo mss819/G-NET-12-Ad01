@@ -37,6 +37,16 @@
 
 
             #endregion
+            #region Question 5
+
+            //Q5: Write a generic method FindMax<T> that finds maximum value
+            //Answer : ==>
+            //int[] arrs = { 10, 5, 22, 8, 13, 20, 45, 5, 2 };
+            //Question_5.Printarr(arrs);
+            //Console.WriteLine();
+            //Console.WriteLine($"the maximum value un array = {Question_5.findMax(arrs)}");
+
+            #endregion
         }
     }
 }
