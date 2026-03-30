@@ -115,6 +115,15 @@ namespace G_NET_12_Ad01
             //Answer : ==> the default keyword in generics is used to return the default value of a type parameter. For reference types, it returns null; for value types, it returns the default value (e.g., 0 for int, false for bool).
 
             #endregion
+            #region Question 14
+
+            //Q14: Write a SafeList<T> that returns default when the index is invalid
+            //Answer : ==> private List<T> items = new();
+            //         public void Add(T item) => items.Add(item);
+            //         return default when the index is invalid
+                
+
+            #endregion
 
 
 
