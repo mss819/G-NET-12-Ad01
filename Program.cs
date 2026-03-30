@@ -119,9 +119,17 @@ namespace G_NET_12_Ad01
 
             //Q14: Write a SafeList<T> that returns default when the index is invalid
             //Answer : ==> private List<T> items = new();
-            //         public void Add(T item) => items.Add(item);
+            //         public void Add(T item) => items.Add(item) : default;
             //         return default when the index is invalid
-                
+
+
+            #endregion
+            #region Question 15
+
+            //Q15: What is covariance? Explain the 'out' keyword.
+            //Answer : ==> covariance allows you to use a more derived type than originally specified. Marked with out keyword
+            //         ==> out Keyword is makes the class just recieve , just get not set
+
 
             #endregion
 
