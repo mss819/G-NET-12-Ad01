@@ -139,6 +139,13 @@ namespace G_NET_12_Ad01
             //         ==> in Keyword can only appear in input positions.
 
             #endregion
+            #region Question 16
+
+            //Q17: What is the difference between covariance and contravariance
+            //Answer : covariance->  output only , producer of T
+            //         contravariance-> input only , consumer of T
+
+            #endregion
 
 
 
