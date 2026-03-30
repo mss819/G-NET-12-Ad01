@@ -54,7 +54,16 @@
             // Genaric Interface is : it is a unique interface can be hold a multable data tybe
 
             #endregion
-         
+            #region Question 7
+
+            //Q7: What is the 'struct' constraint? Write an example
+            //Answer : ==>
+            // the struct constraint it must be value type only
+            //Question_7<int> str = new(10);
+            //Question_7<decimal> strs = new(10M);
+
+            #endregion
+
 
         }
     }
