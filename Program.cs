@@ -102,6 +102,13 @@ namespace G_NET_12_Ad01
 
 
             #endregion
+            #region Question 12
+
+            //Q12: How do you apply multiple constraints? Write an example.
+            //Answer : ==> applaying multiple constraints we can do it by using comma (,) between the constraints
+
+
+            #endregion
 
 
 
