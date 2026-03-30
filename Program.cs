@@ -152,6 +152,12 @@ namespace G_NET_12_Ad01
             //Answer : static member in genaric tybe not shared it is separte from data tybe to another
 
             #endregion
+            #region Question 19
+
+            //Q19: How can you inherit from a generic class?
+            //Answer : you can inherit from genaric class but you must inherit constraint blus
+
+            #endregion
 
 
 
