@@ -1,4 +1,6 @@
-﻿namespace G_NET_12_Ad01
+﻿using G_NET_12_Ad01.Question_11;
+
+namespace G_NET_12_Ad01
 {
     internal class Program
     {
@@ -88,6 +90,19 @@
 
 
             #endregion
+            #region Question 11
+
+            //Q11: What is the base class constraint? Write an example.
+            //Answer : ==>
+            // the interface constraint it must inherit from base class
+            //AnimalShelter<Dog> dogShelter = new();
+            //dogShelter.Add(new Dog("asass"));
+            //AnimalShelter<Cat> catShelter = new();
+            //catShelter.Add(new Cat("sasa"));
+
+
+            #endregion
+
 
 
 
