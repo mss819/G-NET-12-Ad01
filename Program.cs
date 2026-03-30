@@ -132,6 +132,13 @@ namespace G_NET_12_Ad01
 
 
             #endregion
+            #region Question 16
+
+            //Q16: What is contravariance? Explain the 'in' keyword.
+            //Answer : ==> Contravariance allows you to use a less derived type than originally specified. Marked with in keyword.
+            //         ==> in Keyword can only appear in input positions.
+
+            #endregion
 
 
 
